@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check the output of firstreact project [SEE OUTPUT](https://devkishor8007.github.io/firstreact/)
+
 ## Available Scripts
 
 In the project directory, you can run:
